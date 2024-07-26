@@ -24,3 +24,7 @@ O programa imprime 3 linhas no console:
 - Número total de entradas de log
 - Número total de erros
 - Tempo total decorrido
+
+## Instruções de uso
+
+Para utilizar o programa, o usuário deve inserir um arquivo .txt no diretório: Root > bin > Debug > net8.0 e inserir seu nome no Arquivo Program.cs.
